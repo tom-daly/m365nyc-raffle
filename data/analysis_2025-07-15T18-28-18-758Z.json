@@ -1,0 +1,5093 @@
+{
+  "overview": {
+    "total_simulations": 1000,
+    "total_participants": 500,
+    "total_wins": 5000,
+    "avg_wins_per_simulation": 5
+  },
+  "win_rates": [
+    {
+      "user_id": "user_310",
+      "username": "User_310",
+      "win_count": 25,
+      "win_rate": 0.025,
+      "avg_points": 2029,
+      "avg_tickets": 20,
+      "engagement_level": "high",
+      "bias_score": 0.005000000000000001
+    },
+    {
+      "user_id": "user_455",
+      "username": "User_455",
+      "win_count": 24,
+      "win_rate": 0.024,
+      "avg_points": 1970,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": 0.005000000000000001
+    },
+    {
+      "user_id": "user_365",
+      "username": "User_365",
+      "win_count": 24,
+      "win_rate": 0.024,
+      "avg_points": 1660,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": 0.008
+    },
+    {
+      "user_id": "user_495",
+      "username": "User_495",
+      "win_count": 23,
+      "win_rate": 0.023,
+      "avg_points": 1929,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": 0.004
+    },
+    {
+      "user_id": "user_1",
+      "username": "User_001",
+      "win_count": 23,
+      "win_rate": 0.023,
+      "avg_points": 1595,
+      "avg_tickets": 15,
+      "engagement_level": "high",
+      "bias_score": 0.008
+    },
+    {
+      "user_id": "user_300",
+      "username": "User_300",
+      "win_count": 23,
+      "win_rate": 0.023,
+      "avg_points": 1486,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": 0.009
+    },
+    {
+      "user_id": "user_117",
+      "username": "User_117",
+      "win_count": 22,
+      "win_rate": 0.022,
+      "avg_points": 1939,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": 0.002999999999999999
+    },
+    {
+      "user_id": "user_11",
+      "username": "User_011",
+      "win_count": 22,
+      "win_rate": 0.022,
+      "avg_points": 1923,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": 0.002999999999999999
+    },
+    {
+      "user_id": "user_322",
+      "username": "User_322",
+      "win_count": 22,
+      "win_rate": 0.022,
+      "avg_points": 1845,
+      "avg_tickets": 18,
+      "engagement_level": "high",
+      "bias_score": 0.004
+    },
+    {
+      "user_id": "user_6",
+      "username": "User_006",
+      "win_count": 22,
+      "win_rate": 0.022,
+      "avg_points": 1805,
+      "avg_tickets": 18,
+      "engagement_level": "high",
+      "bias_score": 0.004
+    },
+    {
+      "user_id": "user_475",
+      "username": "User_475",
+      "win_count": 22,
+      "win_rate": 0.022,
+      "avg_points": 1772,
+      "avg_tickets": 17,
+      "engagement_level": "high",
+      "bias_score": 0.0049999999999999975
+    },
+    {
+      "user_id": "user_78",
+      "username": "User_078",
+      "win_count": 21,
+      "win_rate": 0.021,
+      "avg_points": 2098,
+      "avg_tickets": 20,
+      "engagement_level": "high",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_416",
+      "username": "User_416",
+      "win_count": 21,
+      "win_rate": 0.021,
+      "avg_points": 2018,
+      "avg_tickets": 20,
+      "engagement_level": "high",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_93",
+      "username": "User_093",
+      "win_count": 21,
+      "win_rate": 0.021,
+      "avg_points": 1969,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": 0.0020000000000000018
+    },
+    {
+      "user_id": "user_151",
+      "username": "User_151",
+      "win_count": 21,
+      "win_rate": 0.021,
+      "avg_points": 1958,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": 0.0020000000000000018
+    },
+    {
+      "user_id": "user_148",
+      "username": "User_148",
+      "win_count": 21,
+      "win_rate": 0.021,
+      "avg_points": 1857,
+      "avg_tickets": 18,
+      "engagement_level": "high",
+      "bias_score": 0.0030000000000000027
+    },
+    {
+      "user_id": "user_392",
+      "username": "User_392",
+      "win_count": 21,
+      "win_rate": 0.021,
+      "avg_points": 1820,
+      "avg_tickets": 18,
+      "engagement_level": "high",
+      "bias_score": 0.0030000000000000027
+    },
+    {
+      "user_id": "user_119",
+      "username": "User_119",
+      "win_count": 21,
+      "win_rate": 0.021,
+      "avg_points": 1454,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": 0.007000000000000001
+    },
+    {
+      "user_id": "user_436",
+      "username": "User_436",
+      "win_count": 20,
+      "win_rate": 0.02,
+      "avg_points": 2074,
+      "avg_tickets": 20,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_369",
+      "username": "User_369",
+      "win_count": 20,
+      "win_rate": 0.02,
+      "avg_points": 2009,
+      "avg_tickets": 20,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_20",
+      "username": "User_020",
+      "win_count": 20,
+      "win_rate": 0.02,
+      "avg_points": 1971,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_438",
+      "username": "User_438",
+      "win_count": 20,
+      "win_rate": 0.02,
+      "avg_points": 1786,
+      "avg_tickets": 17,
+      "engagement_level": "high",
+      "bias_score": 0.002999999999999999
+    },
+    {
+      "user_id": "user_434",
+      "username": "User_434",
+      "win_count": 20,
+      "win_rate": 0.02,
+      "avg_points": 1652,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": 0.004
+    },
+    {
+      "user_id": "user_493",
+      "username": "User_493",
+      "win_count": 20,
+      "win_rate": 0.02,
+      "avg_points": 1635,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": 0.004
+    },
+    {
+      "user_id": "user_459",
+      "username": "User_459",
+      "win_count": 19,
+      "win_rate": 0.019,
+      "avg_points": 1953,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_80",
+      "username": "User_080",
+      "win_count": 19,
+      "win_rate": 0.019,
+      "avg_points": 1932,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_490",
+      "username": "User_490",
+      "win_count": 19,
+      "win_rate": 0.019,
+      "avg_points": 1928,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_368",
+      "username": "User_368",
+      "win_count": 19,
+      "win_rate": 0.019,
+      "avg_points": 1867,
+      "avg_tickets": 18,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_426",
+      "username": "User_426",
+      "win_count": 19,
+      "win_rate": 0.019,
+      "avg_points": 1766,
+      "avg_tickets": 17,
+      "engagement_level": "high",
+      "bias_score": 0.0019999999999999983
+    },
+    {
+      "user_id": "user_386",
+      "username": "User_386",
+      "win_count": 19,
+      "win_rate": 0.019,
+      "avg_points": 1720,
+      "avg_tickets": 17,
+      "engagement_level": "medium",
+      "bias_score": 0.0019999999999999983
+    },
+    {
+      "user_id": "user_200",
+      "username": "User_200",
+      "win_count": 19,
+      "win_rate": 0.019,
+      "avg_points": 1710,
+      "avg_tickets": 17,
+      "engagement_level": "high",
+      "bias_score": 0.0019999999999999983
+    },
+    {
+      "user_id": "user_407",
+      "username": "User_407",
+      "win_count": 19,
+      "win_rate": 0.019,
+      "avg_points": 1675,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": 0.002999999999999999
+    },
+    {
+      "user_id": "user_437",
+      "username": "User_437",
+      "win_count": 19,
+      "win_rate": 0.019,
+      "avg_points": 1662,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": 0.002999999999999999
+    },
+    {
+      "user_id": "user_255",
+      "username": "User_255",
+      "win_count": 19,
+      "win_rate": 0.019,
+      "avg_points": 1652,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": 0.002999999999999999
+    },
+    {
+      "user_id": "user_283",
+      "username": "User_283",
+      "win_count": 19,
+      "win_rate": 0.019,
+      "avg_points": 1568,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": 0.004
+    },
+    {
+      "user_id": "user_40",
+      "username": "User_040",
+      "win_count": 19,
+      "win_rate": 0.019,
+      "avg_points": 1309,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0.006
+    },
+    {
+      "user_id": "user_431",
+      "username": "User_431",
+      "win_count": 19,
+      "win_rate": 0.019,
+      "avg_points": 1303,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0.006
+    },
+    {
+      "user_id": "user_133",
+      "username": "User_133",
+      "win_count": 18,
+      "win_rate": 0.018,
+      "avg_points": 2065,
+      "avg_tickets": 20,
+      "engagement_level": "high",
+      "bias_score": -0.0020000000000000018
+    },
+    {
+      "user_id": "user_380",
+      "username": "User_380",
+      "win_count": 18,
+      "win_rate": 0.018,
+      "avg_points": 1949,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_394",
+      "username": "User_394",
+      "win_count": 18,
+      "win_rate": 0.018,
+      "avg_points": 1887,
+      "avg_tickets": 18,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_291",
+      "username": "User_291",
+      "win_count": 18,
+      "win_rate": 0.018,
+      "avg_points": 1886,
+      "avg_tickets": 18,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_361",
+      "username": "User_361",
+      "win_count": 18,
+      "win_rate": 0.018,
+      "avg_points": 1879,
+      "avg_tickets": 18,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_41",
+      "username": "User_041",
+      "win_count": 18,
+      "win_rate": 0.018,
+      "avg_points": 1760,
+      "avg_tickets": 17,
+      "engagement_level": "high",
+      "bias_score": 0.0009999999999999974
+    },
+    {
+      "user_id": "user_401",
+      "username": "User_401",
+      "win_count": 18,
+      "win_rate": 0.018,
+      "avg_points": 1621,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": 0.0019999999999999983
+    },
+    {
+      "user_id": "user_376",
+      "username": "User_376",
+      "win_count": 18,
+      "win_rate": 0.018,
+      "avg_points": 1600,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": 0.0019999999999999983
+    },
+    {
+      "user_id": "user_414",
+      "username": "User_414",
+      "win_count": 18,
+      "win_rate": 0.018,
+      "avg_points": 1490,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": 0.003999999999999998
+    },
+    {
+      "user_id": "user_339",
+      "username": "User_339",
+      "win_count": 18,
+      "win_rate": 0.018,
+      "avg_points": 1479,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": 0.003999999999999998
+    },
+    {
+      "user_id": "user_428",
+      "username": "User_428",
+      "win_count": 18,
+      "win_rate": 0.018,
+      "avg_points": 1372,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0.004999999999999999
+    },
+    {
+      "user_id": "user_348",
+      "username": "User_348",
+      "win_count": 18,
+      "win_rate": 0.018,
+      "avg_points": 1194,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0.006999999999999999
+    },
+    {
+      "user_id": "user_116",
+      "username": "User_116",
+      "win_count": 18,
+      "win_rate": 0.018,
+      "avg_points": 1121,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0.006999999999999999
+    },
+    {
+      "user_id": "user_122",
+      "username": "User_122",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 2033,
+      "avg_tickets": 20,
+      "engagement_level": "high",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_456",
+      "username": "User_456",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1927,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": -0.0019999999999999983
+    },
+    {
+      "user_id": "user_375",
+      "username": "User_375",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1831,
+      "avg_tickets": 18,
+      "engagement_level": "high",
+      "bias_score": -0.0009999999999999974
+    },
+    {
+      "user_id": "user_70",
+      "username": "User_070",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1809,
+      "avg_tickets": 18,
+      "engagement_level": "high",
+      "bias_score": -0.0009999999999999974
+    },
+    {
+      "user_id": "user_197",
+      "username": "User_197",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1737,
+      "avg_tickets": 17,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_359",
+      "username": "User_359",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1699,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_164",
+      "username": "User_164",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1680,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_210",
+      "username": "User_210",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1653,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_179",
+      "username": "User_179",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1643,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_33",
+      "username": "User_033",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1623,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_188",
+      "username": "User_188",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1597,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": 0.0020000000000000018
+    },
+    {
+      "user_id": "user_37",
+      "username": "User_037",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1423,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": 0.003000000000000001
+    },
+    {
+      "user_id": "user_125",
+      "username": "User_125",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1413,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": 0.003000000000000001
+    },
+    {
+      "user_id": "user_252",
+      "username": "User_252",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1384,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0.004000000000000002
+    },
+    {
+      "user_id": "user_229",
+      "username": "User_229",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1356,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0.004000000000000002
+    },
+    {
+      "user_id": "user_245",
+      "username": "User_245",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1194,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0.006000000000000002
+    },
+    {
+      "user_id": "user_366",
+      "username": "User_366",
+      "win_count": 17,
+      "win_rate": 0.017,
+      "avg_points": 1020,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0.007000000000000001
+    },
+    {
+      "user_id": "user_378",
+      "username": "User_378",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1837,
+      "avg_tickets": 18,
+      "engagement_level": "high",
+      "bias_score": -0.0019999999999999983
+    },
+    {
+      "user_id": "user_186",
+      "username": "User_186",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1828,
+      "avg_tickets": 18,
+      "engagement_level": "high",
+      "bias_score": -0.0019999999999999983
+    },
+    {
+      "user_id": "user_94",
+      "username": "User_094",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1697,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_429",
+      "username": "User_429",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1680,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_25",
+      "username": "User_025",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1620,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_13",
+      "username": "User_013",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1606,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_181",
+      "username": "User_181",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1560,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_253",
+      "username": "User_253",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1501,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_297",
+      "username": "User_297",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1501,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_304",
+      "username": "User_304",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1487,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_424",
+      "username": "User_424",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1486,
+      "avg_tickets": 14,
+      "engagement_level": "high",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_206",
+      "username": "User_206",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1429,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_147",
+      "username": "User_147",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1426,
+      "avg_tickets": 14,
+      "engagement_level": "high",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_52",
+      "username": "User_052",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1404,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_292",
+      "username": "User_292",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1376,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0.003000000000000001
+    },
+    {
+      "user_id": "user_26",
+      "username": "User_026",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1277,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0.004
+    },
+    {
+      "user_id": "user_53",
+      "username": "User_053",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1231,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0.004
+    },
+    {
+      "user_id": "user_454",
+      "username": "User_454",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1184,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0.005000000000000001
+    },
+    {
+      "user_id": "user_44",
+      "username": "User_044",
+      "win_count": 16,
+      "win_rate": 0.016,
+      "avg_points": 1108,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0.005000000000000001
+    },
+    {
+      "user_id": "user_36",
+      "username": "User_036",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1941,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_157",
+      "username": "User_157",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1907,
+      "avg_tickets": 19,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_338",
+      "username": "User_338",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1900,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_216",
+      "username": "User_216",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1874,
+      "avg_tickets": 18,
+      "engagement_level": "high",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_486",
+      "username": "User_486",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1749,
+      "avg_tickets": 17,
+      "engagement_level": "high",
+      "bias_score": -0.0020000000000000018
+    },
+    {
+      "user_id": "user_278",
+      "username": "User_278",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1666,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_110",
+      "username": "User_110",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1620,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_276",
+      "username": "User_276",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1611,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_446",
+      "username": "User_446",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1602,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_34",
+      "username": "User_034",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1588,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_480",
+      "username": "User_480",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1572,
+      "avg_tickets": 15,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_30",
+      "username": "User_030",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1546,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_144",
+      "username": "User_144",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1493,
+      "avg_tickets": 14,
+      "engagement_level": "high",
+      "bias_score": 0.0009999999999999992
+    },
+    {
+      "user_id": "user_82",
+      "username": "User_082",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1409,
+      "avg_tickets": 14,
+      "engagement_level": "high",
+      "bias_score": 0.0009999999999999992
+    },
+    {
+      "user_id": "user_171",
+      "username": "User_171",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1391,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_226",
+      "username": "User_226",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1371,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_496",
+      "username": "User_496",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1347,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_127",
+      "username": "User_127",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1311,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_130",
+      "username": "User_130",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1307,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_153",
+      "username": "User_153",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1290,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0.002999999999999999
+    },
+    {
+      "user_id": "user_212",
+      "username": "User_212",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1215,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0.002999999999999999
+    },
+    {
+      "user_id": "user_484",
+      "username": "User_484",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 1155,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0.004
+    },
+    {
+      "user_id": "user_67",
+      "username": "User_067",
+      "win_count": 15,
+      "win_rate": 0.015,
+      "avg_points": 905,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": 0.006
+    },
+    {
+      "user_id": "user_488",
+      "username": "User_488",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1845,
+      "avg_tickets": 18,
+      "engagement_level": "high",
+      "bias_score": -0.003999999999999998
+    },
+    {
+      "user_id": "user_335",
+      "username": "User_335",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1762,
+      "avg_tickets": 17,
+      "engagement_level": "high",
+      "bias_score": -0.003000000000000001
+    },
+    {
+      "user_id": "user_3",
+      "username": "User_003",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1731,
+      "avg_tickets": 17,
+      "engagement_level": "high",
+      "bias_score": -0.003000000000000001
+    },
+    {
+      "user_id": "user_449",
+      "username": "User_449",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1688,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_499",
+      "username": "User_499",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1672,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_450",
+      "username": "User_450",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1657,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_242",
+      "username": "User_242",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1574,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_423",
+      "username": "User_423",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1570,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_97",
+      "username": "User_097",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1567,
+      "avg_tickets": 15,
+      "engagement_level": "high",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_57",
+      "username": "User_057",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1524,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_286",
+      "username": "User_286",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1512,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_273",
+      "username": "User_273",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1464,
+      "avg_tickets": 14,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_74",
+      "username": "User_074",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1461,
+      "avg_tickets": 14,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_260",
+      "username": "User_260",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1457,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_447",
+      "username": "User_447",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1393,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_272",
+      "username": "User_272",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1365,
+      "avg_tickets": 13,
+      "engagement_level": "high",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_99",
+      "username": "User_099",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1349,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_177",
+      "username": "User_177",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1317,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_175",
+      "username": "User_175",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1288,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_497",
+      "username": "User_497",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1282,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_43",
+      "username": "User_043",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1206,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_373",
+      "username": "User_373",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1184,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0.003000000000000001
+    },
+    {
+      "user_id": "user_232",
+      "username": "User_232",
+      "win_count": 14,
+      "win_rate": 0.014,
+      "avg_points": 1150,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0.003000000000000001
+    },
+    {
+      "user_id": "user_479",
+      "username": "User_479",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1914,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": -0.006
+    },
+    {
+      "user_id": "user_464",
+      "username": "User_464",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1895,
+      "avg_tickets": 18,
+      "engagement_level": "high",
+      "bias_score": -0.004999999999999999
+    },
+    {
+      "user_id": "user_15",
+      "username": "User_015",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1864,
+      "avg_tickets": 18,
+      "engagement_level": "high",
+      "bias_score": -0.004999999999999999
+    },
+    {
+      "user_id": "user_156",
+      "username": "User_156",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1746,
+      "avg_tickets": 17,
+      "engagement_level": "high",
+      "bias_score": -0.004000000000000002
+    },
+    {
+      "user_id": "user_388",
+      "username": "User_388",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1736,
+      "avg_tickets": 17,
+      "engagement_level": "high",
+      "bias_score": -0.004000000000000002
+    },
+    {
+      "user_id": "user_50",
+      "username": "User_050",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1632,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": -0.003000000000000001
+    },
+    {
+      "user_id": "user_284",
+      "username": "User_284",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1623,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": -0.003000000000000001
+    },
+    {
+      "user_id": "user_195",
+      "username": "User_195",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1610,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": -0.003000000000000001
+    },
+    {
+      "user_id": "user_131",
+      "username": "User_131",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1606,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": -0.003000000000000001
+    },
+    {
+      "user_id": "user_453",
+      "username": "User_453",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1605,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": -0.003000000000000001
+    },
+    {
+      "user_id": "user_263",
+      "username": "User_263",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1592,
+      "avg_tickets": 15,
+      "engagement_level": "high",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_105",
+      "username": "User_105",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1590,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_265",
+      "username": "User_265",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1590,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_233",
+      "username": "User_233",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1584,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_220",
+      "username": "User_220",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1583,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_178",
+      "username": "User_178",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1538,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_398",
+      "username": "User_398",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1529,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_462",
+      "username": "User_462",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1496,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_71",
+      "username": "User_071",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1441,
+      "avg_tickets": 14,
+      "engagement_level": "high",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_12",
+      "username": "User_012",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1435,
+      "avg_tickets": 14,
+      "engagement_level": "high",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_84",
+      "username": "User_084",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1427,
+      "avg_tickets": 14,
+      "engagement_level": "high",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_269",
+      "username": "User_269",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1401,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_343",
+      "username": "User_343",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1397,
+      "avg_tickets": 13,
+      "engagement_level": "high",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_331",
+      "username": "User_331",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1387,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_318",
+      "username": "User_318",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1367,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_234",
+      "username": "User_234",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1344,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_140",
+      "username": "User_140",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1325,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_430",
+      "username": "User_430",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1308,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_201",
+      "username": "User_201",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1255,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0.0009999999999999992
+    },
+    {
+      "user_id": "user_225",
+      "username": "User_225",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1243,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0.0009999999999999992
+    },
+    {
+      "user_id": "user_38",
+      "username": "User_038",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1241,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0.0009999999999999992
+    },
+    {
+      "user_id": "user_323",
+      "username": "User_323",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1204,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0.0009999999999999992
+    },
+    {
+      "user_id": "user_246",
+      "username": "User_246",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1093,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0.002999999999999999
+    },
+    {
+      "user_id": "user_439",
+      "username": "User_439",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1056,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0.002999999999999999
+    },
+    {
+      "user_id": "user_418",
+      "username": "User_418",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1041,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0.002999999999999999
+    },
+    {
+      "user_id": "user_196",
+      "username": "User_196",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 1011,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0.002999999999999999
+    },
+    {
+      "user_id": "user_14",
+      "username": "User_014",
+      "win_count": 13,
+      "win_rate": 0.013,
+      "avg_points": 853,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": 0.004999999999999999
+    },
+    {
+      "user_id": "user_118",
+      "username": "User_118",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1819,
+      "avg_tickets": 18,
+      "engagement_level": "medium",
+      "bias_score": -0.005999999999999998
+    },
+    {
+      "user_id": "user_404",
+      "username": "User_404",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1809,
+      "avg_tickets": 18,
+      "engagement_level": "medium",
+      "bias_score": -0.005999999999999998
+    },
+    {
+      "user_id": "user_88",
+      "username": "User_088",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1751,
+      "avg_tickets": 17,
+      "engagement_level": "high",
+      "bias_score": -0.005000000000000001
+    },
+    {
+      "user_id": "user_158",
+      "username": "User_158",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1722,
+      "avg_tickets": 17,
+      "engagement_level": "high",
+      "bias_score": -0.005000000000000001
+    },
+    {
+      "user_id": "user_387",
+      "username": "User_387",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1621,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_390",
+      "username": "User_390",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1617,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_198",
+      "username": "User_198",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1591,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_231",
+      "username": "User_231",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1585,
+      "avg_tickets": 15,
+      "engagement_level": "high",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_258",
+      "username": "User_258",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1574,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_422",
+      "username": "User_422",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1574,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_63",
+      "username": "User_063",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1549,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_425",
+      "username": "User_425",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1537,
+      "avg_tickets": 15,
+      "engagement_level": "high",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_290",
+      "username": "User_290",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1533,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_374",
+      "username": "User_374",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1495,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_180",
+      "username": "User_180",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1490,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_443",
+      "username": "User_443",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1446,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_420",
+      "username": "User_420",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1404,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_474",
+      "username": "User_474",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1396,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_370",
+      "username": "User_370",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1381,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_309",
+      "username": "User_309",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1378,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_483",
+      "username": "User_483",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1367,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_9",
+      "username": "User_009",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1356,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_132",
+      "username": "User_132",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1340,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_139",
+      "username": "User_139",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1306,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_333",
+      "username": "User_333",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1285,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_77",
+      "username": "User_077",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1271,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_39",
+      "username": "User_039",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1231,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_411",
+      "username": "User_411",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1219,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_31",
+      "username": "User_031",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1211,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_457",
+      "username": "User_457",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1182,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_397",
+      "username": "User_397",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1157,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_56",
+      "username": "User_056",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1137,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_248",
+      "username": "User_248",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1128,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_500",
+      "username": "User_500",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1049,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_51",
+      "username": "User_051",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1044,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_408",
+      "username": "User_408",
+      "win_count": 12,
+      "win_rate": 0.012,
+      "avg_points": 1041,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0.002
+    },
+    {
+      "user_id": "user_129",
+      "username": "User_129",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1700,
+      "avg_tickets": 17,
+      "engagement_level": "medium",
+      "bias_score": -0.006000000000000002
+    },
+    {
+      "user_id": "user_285",
+      "username": "User_285",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1665,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": -0.005000000000000001
+    },
+    {
+      "user_id": "user_202",
+      "username": "User_202",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1596,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_218",
+      "username": "User_218",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1588,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_415",
+      "username": "User_415",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1570,
+      "avg_tickets": 15,
+      "engagement_level": "high",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_279",
+      "username": "User_279",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1555,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_440",
+      "username": "User_440",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1552,
+      "avg_tickets": 15,
+      "engagement_level": "high",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_193",
+      "username": "User_193",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1529,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_319",
+      "username": "User_319",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1362,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_289",
+      "username": "User_289",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1356,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_264",
+      "username": "User_264",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1354,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_62",
+      "username": "User_062",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1337,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_108",
+      "username": "User_108",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1312,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_165",
+      "username": "User_165",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1238,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_467",
+      "username": "User_467",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1235,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_16",
+      "username": "User_016",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1226,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_176",
+      "username": "User_176",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1226,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_364",
+      "username": "User_364",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1154,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_324",
+      "username": "User_324",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1145,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_353",
+      "username": "User_353",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1123,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_377",
+      "username": "User_377",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1108,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_395",
+      "username": "User_395",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1089,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0.0009999999999999992
+    },
+    {
+      "user_id": "user_354",
+      "username": "User_354",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1059,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0.0009999999999999992
+    },
+    {
+      "user_id": "user_24",
+      "username": "User_024",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1041,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0.0009999999999999992
+    },
+    {
+      "user_id": "user_442",
+      "username": "User_442",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1030,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0.0009999999999999992
+    },
+    {
+      "user_id": "user_238",
+      "username": "User_238",
+      "win_count": 11,
+      "win_rate": 0.011,
+      "avg_points": 1000,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0.0009999999999999992
+    },
+    {
+      "user_id": "user_372",
+      "username": "User_372",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1793,
+      "avg_tickets": 17,
+      "engagement_level": "high",
+      "bias_score": -0.007000000000000001
+    },
+    {
+      "user_id": "user_126",
+      "username": "User_126",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1589,
+      "avg_tickets": 15,
+      "engagement_level": "high",
+      "bias_score": -0.004999999999999999
+    },
+    {
+      "user_id": "user_59",
+      "username": "User_059",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1571,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.004999999999999999
+    },
+    {
+      "user_id": "user_382",
+      "username": "User_382",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1570,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.004999999999999999
+    },
+    {
+      "user_id": "user_275",
+      "username": "User_275",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1519,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.004999999999999999
+    },
+    {
+      "user_id": "user_465",
+      "username": "User_465",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1518,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.004999999999999999
+    },
+    {
+      "user_id": "user_330",
+      "username": "User_330",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1515,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.004999999999999999
+    },
+    {
+      "user_id": "user_417",
+      "username": "User_417",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1489,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_19",
+      "username": "User_019",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1448,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_356",
+      "username": "User_356",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1350,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_360",
+      "username": "User_360",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1346,
+      "avg_tickets": 13,
+      "engagement_level": "high",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_85",
+      "username": "User_085",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1308,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_433",
+      "username": "User_433",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1273,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_326",
+      "username": "User_326",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1268,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_89",
+      "username": "User_089",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1254,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_69",
+      "username": "User_069",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1253,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_143",
+      "username": "User_143",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1238,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_10",
+      "username": "User_010",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1232,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_301",
+      "username": "User_301",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1217,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_315",
+      "username": "User_315",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1211,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_221",
+      "username": "User_221",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1208,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_256",
+      "username": "User_256",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1195,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_243",
+      "username": "User_243",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1125,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_492",
+      "username": "User_492",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1121,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_162",
+      "username": "User_162",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1115,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_100",
+      "username": "User_100",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1104,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_81",
+      "username": "User_081",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1100,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_237",
+      "username": "User_237",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1098,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_482",
+      "username": "User_482",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1075,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_305",
+      "username": "User_305",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1028,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_66",
+      "username": "User_066",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 1020,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_8",
+      "username": "User_008",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 976,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_236",
+      "username": "User_236",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 956,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_27",
+      "username": "User_027",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 949,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_485",
+      "username": "User_485",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 912,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": 0.0010000000000000009
+    },
+    {
+      "user_id": "user_174",
+      "username": "User_174",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 777,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": 0.003
+    },
+    {
+      "user_id": "user_7",
+      "username": "User_007",
+      "win_count": 10,
+      "win_rate": 0.01,
+      "avg_points": 755,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": 0.003
+    },
+    {
+      "user_id": "user_461",
+      "username": "User_461",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1991,
+      "avg_tickets": 19,
+      "engagement_level": "high",
+      "bias_score": -0.01
+    },
+    {
+      "user_id": "user_211",
+      "username": "User_211",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1661,
+      "avg_tickets": 16,
+      "engagement_level": "medium",
+      "bias_score": -0.007000000000000001
+    },
+    {
+      "user_id": "user_287",
+      "username": "User_287",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1566,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.006
+    },
+    {
+      "user_id": "user_135",
+      "username": "User_135",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1466,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.005000000000000001
+    },
+    {
+      "user_id": "user_64",
+      "username": "User_064",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1460,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.005000000000000001
+    },
+    {
+      "user_id": "user_141",
+      "username": "User_141",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1458,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.005000000000000001
+    },
+    {
+      "user_id": "user_363",
+      "username": "User_363",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1440,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.005000000000000001
+    },
+    {
+      "user_id": "user_306",
+      "username": "User_306",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1412,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.005000000000000001
+    },
+    {
+      "user_id": "user_128",
+      "username": "User_128",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1360,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_471",
+      "username": "User_471",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1353,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_208",
+      "username": "User_208",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1311,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_349",
+      "username": "User_349",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1303,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_205",
+      "username": "User_205",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1294,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.003000000000000001
+    },
+    {
+      "user_id": "user_345",
+      "username": "User_345",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1281,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.003000000000000001
+    },
+    {
+      "user_id": "user_451",
+      "username": "User_451",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1256,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.003000000000000001
+    },
+    {
+      "user_id": "user_259",
+      "username": "User_259",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1240,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.003000000000000001
+    },
+    {
+      "user_id": "user_61",
+      "username": "User_061",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1221,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.003000000000000001
+    },
+    {
+      "user_id": "user_316",
+      "username": "User_316",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1217,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.003000000000000001
+    },
+    {
+      "user_id": "user_421",
+      "username": "User_421",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1204,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.003000000000000001
+    },
+    {
+      "user_id": "user_313",
+      "username": "User_313",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1135,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_352",
+      "username": "User_352",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1135,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_239",
+      "username": "User_239",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1126,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_207",
+      "username": "User_207",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1104,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_28",
+      "username": "User_028",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1090,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_223",
+      "username": "User_223",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1018,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_249",
+      "username": "User_249",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 1000,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.0010000000000000009
+    },
+    {
+      "user_id": "user_83",
+      "username": "User_083",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 999,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_228",
+      "username": "User_228",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 930,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_134",
+      "username": "User_134",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 919,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_320",
+      "username": "User_320",
+      "win_count": 9,
+      "win_rate": 0.009,
+      "avg_points": 918,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_46",
+      "username": "User_046",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1567,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.006999999999999999
+    },
+    {
+      "user_id": "user_441",
+      "username": "User_441",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1550,
+      "avg_tickets": 15,
+      "engagement_level": "medium",
+      "bias_score": -0.006999999999999999
+    },
+    {
+      "user_id": "user_311",
+      "username": "User_311",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1442,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.006
+    },
+    {
+      "user_id": "user_336",
+      "username": "User_336",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1417,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.006
+    },
+    {
+      "user_id": "user_476",
+      "username": "User_476",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1396,
+      "avg_tickets": 13,
+      "engagement_level": "high",
+      "bias_score": -0.004999999999999999
+    },
+    {
+      "user_id": "user_489",
+      "username": "User_489",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1360,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.004999999999999999
+    },
+    {
+      "user_id": "user_199",
+      "username": "User_199",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1280,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_95",
+      "username": "User_095",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1253,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_347",
+      "username": "User_347",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1231,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_332",
+      "username": "User_332",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1226,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_92",
+      "username": "User_092",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1182,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_410",
+      "username": "User_410",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1155,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_73",
+      "username": "User_073",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1109,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_473",
+      "username": "User_473",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1106,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_458",
+      "username": "User_458",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 1051,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_341",
+      "username": "User_341",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 993,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_150",
+      "username": "User_150",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 991,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_293",
+      "username": "User_293",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 935,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.0009999999999999992
+    },
+    {
+      "user_id": "user_268",
+      "username": "User_268",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 883,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_21",
+      "username": "User_021",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 881,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_65",
+      "username": "User_065",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 847,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_491",
+      "username": "User_491",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 840,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_302",
+      "username": "User_302",
+      "win_count": 8,
+      "win_rate": 0.008,
+      "avg_points": 704,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": 0.001
+    },
+    {
+      "user_id": "user_136",
+      "username": "User_136",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1379,
+      "avg_tickets": 13,
+      "engagement_level": "high",
+      "bias_score": -0.005999999999999999
+    },
+    {
+      "user_id": "user_344",
+      "username": "User_344",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1350,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.005999999999999999
+    },
+    {
+      "user_id": "user_187",
+      "username": "User_187",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1244,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_412",
+      "username": "User_412",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1231,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_91",
+      "username": "User_091",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1220,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_435",
+      "username": "User_435",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1214,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_121",
+      "username": "User_121",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1200,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_96",
+      "username": "User_096",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1155,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.003999999999999999
+    },
+    {
+      "user_id": "user_463",
+      "username": "User_463",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1134,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.003999999999999999
+    },
+    {
+      "user_id": "user_145",
+      "username": "User_145",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1130,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.003999999999999999
+    },
+    {
+      "user_id": "user_98",
+      "username": "User_098",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1125,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.003999999999999999
+    },
+    {
+      "user_id": "user_282",
+      "username": "User_282",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1100,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.003999999999999999
+    },
+    {
+      "user_id": "user_166",
+      "username": "User_166",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1065,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_215",
+      "username": "User_215",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1042,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_79",
+      "username": "User_079",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1033,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_192",
+      "username": "User_192",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1020,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_155",
+      "username": "User_155",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 1014,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_138",
+      "username": "User_138",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 993,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.001999999999999999
+    },
+    {
+      "user_id": "user_213",
+      "username": "User_213",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 988,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.001999999999999999
+    },
+    {
+      "user_id": "user_314",
+      "username": "User_314",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 986,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.001999999999999999
+    },
+    {
+      "user_id": "user_351",
+      "username": "User_351",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 980,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.001999999999999999
+    },
+    {
+      "user_id": "user_389",
+      "username": "User_389",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 915,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.001999999999999999
+    },
+    {
+      "user_id": "user_250",
+      "username": "User_250",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 896,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.001
+    },
+    {
+      "user_id": "user_419",
+      "username": "User_419",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 874,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.001
+    },
+    {
+      "user_id": "user_29",
+      "username": "User_029",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 860,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.001
+    },
+    {
+      "user_id": "user_400",
+      "username": "User_400",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 857,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.001
+    },
+    {
+      "user_id": "user_452",
+      "username": "User_452",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 818,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.001
+    },
+    {
+      "user_id": "user_163",
+      "username": "User_163",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 794,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_267",
+      "username": "User_267",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 728,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_298",
+      "username": "User_298",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 723,
+      "avg_tickets": 7,
+      "engagement_level": "low",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_103",
+      "username": "User_103",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 663,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": 0.001
+    },
+    {
+      "user_id": "user_362",
+      "username": "User_362",
+      "win_count": 7,
+      "win_rate": 0.007,
+      "avg_points": 660,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": 0.001
+    },
+    {
+      "user_id": "user_32",
+      "username": "User_032",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 1350,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.006999999999999999
+    },
+    {
+      "user_id": "user_152",
+      "username": "User_152",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 1277,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.006
+    },
+    {
+      "user_id": "user_296",
+      "username": "User_296",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 1267,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.006
+    },
+    {
+      "user_id": "user_371",
+      "username": "User_371",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 1253,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.006
+    },
+    {
+      "user_id": "user_409",
+      "username": "User_409",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 1252,
+      "avg_tickets": 12,
+      "engagement_level": "medium",
+      "bias_score": -0.006
+    },
+    {
+      "user_id": "user_379",
+      "username": "User_379",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 1172,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.004999999999999999
+    },
+    {
+      "user_id": "user_280",
+      "username": "User_280",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 1098,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_299",
+      "username": "User_299",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 1076,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_261",
+      "username": "User_261",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 1063,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_170",
+      "username": "User_170",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 1004,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_487",
+      "username": "User_487",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 989,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_120",
+      "username": "User_120",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 959,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_173",
+      "username": "User_173",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 932,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_167",
+      "username": "User_167",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 930,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.002999999999999999
+    },
+    {
+      "user_id": "user_498",
+      "username": "User_498",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 894,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_209",
+      "username": "User_209",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 883,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_146",
+      "username": "User_146",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 814,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_317",
+      "username": "User_317",
+      "win_count": 6,
+      "win_rate": 0.006,
+      "avg_points": 811,
+      "avg_tickets": 8,
+      "engagement_level": "low",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_219",
+      "username": "User_219",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 1371,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.008
+    },
+    {
+      "user_id": "user_262",
+      "username": "User_262",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 1157,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.005999999999999999
+    },
+    {
+      "user_id": "user_60",
+      "username": "User_060",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 1135,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.005999999999999999
+    },
+    {
+      "user_id": "user_240",
+      "username": "User_240",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 1100,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.005999999999999999
+    },
+    {
+      "user_id": "user_367",
+      "username": "User_367",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 1052,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_308",
+      "username": "User_308",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 1040,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_251",
+      "username": "User_251",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 996,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.003999999999999999
+    },
+    {
+      "user_id": "user_113",
+      "username": "User_113",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 990,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.003999999999999999
+    },
+    {
+      "user_id": "user_217",
+      "username": "User_217",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 981,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.003999999999999999
+    },
+    {
+      "user_id": "user_75",
+      "username": "User_075",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 946,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.003999999999999999
+    },
+    {
+      "user_id": "user_270",
+      "username": "User_270",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 944,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.003999999999999999
+    },
+    {
+      "user_id": "user_160",
+      "username": "User_160",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 936,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.003999999999999999
+    },
+    {
+      "user_id": "user_222",
+      "username": "User_222",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 935,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.003999999999999999
+    },
+    {
+      "user_id": "user_101",
+      "username": "User_101",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 931,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.003999999999999999
+    },
+    {
+      "user_id": "user_112",
+      "username": "User_112",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 865,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_334",
+      "username": "User_334",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 846,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_444",
+      "username": "User_444",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 813,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_182",
+      "username": "User_182",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 753,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_114",
+      "username": "User_114",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 750,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_5",
+      "username": "User_005",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 738,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_183",
+      "username": "User_183",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 734,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_204",
+      "username": "User_204",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 711,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_288",
+      "username": "User_288",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 678,
+      "avg_tickets": 6,
+      "engagement_level": "low",
+      "bias_score": -0.001
+    },
+    {
+      "user_id": "user_149",
+      "username": "User_149",
+      "win_count": 5,
+      "win_rate": 0.005,
+      "avg_points": 596,
+      "avg_tickets": 5,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_48",
+      "username": "User_048",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 1430,
+      "avg_tickets": 14,
+      "engagement_level": "medium",
+      "bias_score": -0.01
+    },
+    {
+      "user_id": "user_115",
+      "username": "User_115",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 1317,
+      "avg_tickets": 13,
+      "engagement_level": "medium",
+      "bias_score": -0.009
+    },
+    {
+      "user_id": "user_413",
+      "username": "User_413",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 1124,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.006999999999999999
+    },
+    {
+      "user_id": "user_340",
+      "username": "User_340",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 1111,
+      "avg_tickets": 11,
+      "engagement_level": "medium",
+      "bias_score": -0.006999999999999999
+    },
+    {
+      "user_id": "user_381",
+      "username": "User_381",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 1043,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.006
+    },
+    {
+      "user_id": "user_247",
+      "username": "User_247",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 944,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.004999999999999999
+    },
+    {
+      "user_id": "user_384",
+      "username": "User_384",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 915,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.004999999999999999
+    },
+    {
+      "user_id": "user_111",
+      "username": "User_111",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 913,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.004999999999999999
+    },
+    {
+      "user_id": "user_357",
+      "username": "User_357",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 898,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_460",
+      "username": "User_460",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 886,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_154",
+      "username": "User_154",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 883,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_274",
+      "username": "User_274",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 878,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_355",
+      "username": "User_355",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 860,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_203",
+      "username": "User_203",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 846,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_329",
+      "username": "User_329",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 841,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_337",
+      "username": "User_337",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 830,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_137",
+      "username": "User_137",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 815,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_468",
+      "username": "User_468",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 791,
+      "avg_tickets": 7,
+      "engagement_level": "low",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_405",
+      "username": "User_405",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 788,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_22",
+      "username": "User_022",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 785,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_325",
+      "username": "User_325",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 744,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_399",
+      "username": "User_399",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 744,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_385",
+      "username": "User_385",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 722,
+      "avg_tickets": 7,
+      "engagement_level": "low",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_102",
+      "username": "User_102",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 701,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_244",
+      "username": "User_244",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 699,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_107",
+      "username": "User_107",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 661,
+      "avg_tickets": 6,
+      "engagement_level": "low",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_159",
+      "username": "User_159",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 649,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_184",
+      "username": "User_184",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 645,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_470",
+      "username": "User_470",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 616,
+      "avg_tickets": 6,
+      "engagement_level": "low",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_58",
+      "username": "User_058",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 606,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_303",
+      "username": "User_303",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 527,
+      "avg_tickets": 5,
+      "engagement_level": "medium",
+      "bias_score": -0.001
+    },
+    {
+      "user_id": "user_224",
+      "username": "User_224",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 510,
+      "avg_tickets": 5,
+      "engagement_level": "low",
+      "bias_score": -0.001
+    },
+    {
+      "user_id": "user_230",
+      "username": "User_230",
+      "win_count": 4,
+      "win_rate": 0.004,
+      "avg_points": 425,
+      "avg_tickets": 4,
+      "engagement_level": "medium",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_328",
+      "username": "User_328",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 1686,
+      "avg_tickets": 16,
+      "engagement_level": "high",
+      "bias_score": -0.013000000000000001
+    },
+    {
+      "user_id": "user_235",
+      "username": "User_235",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 1038,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.007
+    },
+    {
+      "user_id": "user_432",
+      "username": "User_432",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 996,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.005999999999999999
+    },
+    {
+      "user_id": "user_358",
+      "username": "User_358",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 949,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.005999999999999999
+    },
+    {
+      "user_id": "user_393",
+      "username": "User_393",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 947,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.005999999999999999
+    },
+    {
+      "user_id": "user_161",
+      "username": "User_161",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 941,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.005999999999999999
+    },
+    {
+      "user_id": "user_169",
+      "username": "User_169",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 934,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.005999999999999999
+    },
+    {
+      "user_id": "user_106",
+      "username": "User_106",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 932,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.005999999999999999
+    },
+    {
+      "user_id": "user_266",
+      "username": "User_266",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 884,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_2",
+      "username": "User_002",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 847,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_294",
+      "username": "User_294",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 830,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_49",
+      "username": "User_049",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 813,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_185",
+      "username": "User_185",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 758,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_104",
+      "username": "User_104",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 738,
+      "avg_tickets": 7,
+      "engagement_level": "low",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_241",
+      "username": "User_241",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 707,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_478",
+      "username": "User_478",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 675,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_86",
+      "username": "User_086",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 661,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_76",
+      "username": "User_076",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 658,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_406",
+      "username": "User_406",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 640,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_189",
+      "username": "User_189",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 616,
+      "avg_tickets": 6,
+      "engagement_level": "low",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_469",
+      "username": "User_469",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 588,
+      "avg_tickets": 5,
+      "engagement_level": "low",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_391",
+      "username": "User_391",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 559,
+      "avg_tickets": 5,
+      "engagement_level": "low",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_481",
+      "username": "User_481",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 512,
+      "avg_tickets": 5,
+      "engagement_level": "medium",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_427",
+      "username": "User_427",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 406,
+      "avg_tickets": 4,
+      "engagement_level": "low",
+      "bias_score": -0.001
+    },
+    {
+      "user_id": "user_142",
+      "username": "User_142",
+      "win_count": 3,
+      "win_rate": 0.003,
+      "avg_points": 341,
+      "avg_tickets": 3,
+      "engagement_level": "low",
+      "bias_score": 0
+    },
+    {
+      "user_id": "user_254",
+      "username": "User_254",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 1018,
+      "avg_tickets": 10,
+      "engagement_level": "medium",
+      "bias_score": -0.008
+    },
+    {
+      "user_id": "user_295",
+      "username": "User_295",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 950,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.006999999999999999
+    },
+    {
+      "user_id": "user_477",
+      "username": "User_477",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 933,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.006999999999999999
+    },
+    {
+      "user_id": "user_124",
+      "username": "User_124",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 912,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.006999999999999999
+    },
+    {
+      "user_id": "user_448",
+      "username": "User_448",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 902,
+      "avg_tickets": 9,
+      "engagement_level": "medium",
+      "bias_score": -0.006999999999999999
+    },
+    {
+      "user_id": "user_194",
+      "username": "User_194",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 851,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.006
+    },
+    {
+      "user_id": "user_494",
+      "username": "User_494",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 841,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.006
+    },
+    {
+      "user_id": "user_445",
+      "username": "User_445",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 801,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.006
+    },
+    {
+      "user_id": "user_68",
+      "username": "User_068",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 740,
+      "avg_tickets": 7,
+      "engagement_level": "low",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_45",
+      "username": "User_045",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 693,
+      "avg_tickets": 6,
+      "engagement_level": "low",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_466",
+      "username": "User_466",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 640,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_321",
+      "username": "User_321",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 628,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_190",
+      "username": "User_190",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 626,
+      "avg_tickets": 6,
+      "engagement_level": "low",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_312",
+      "username": "User_312",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 620,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_214",
+      "username": "User_214",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 616,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_17",
+      "username": "User_017",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 611,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_23",
+      "username": "User_023",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 601,
+      "avg_tickets": 6,
+      "engagement_level": "low",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_72",
+      "username": "User_072",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 583,
+      "avg_tickets": 5,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_35",
+      "username": "User_035",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 557,
+      "avg_tickets": 5,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_227",
+      "username": "User_227",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 525,
+      "avg_tickets": 5,
+      "engagement_level": "low",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_396",
+      "username": "User_396",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 516,
+      "avg_tickets": 5,
+      "engagement_level": "low",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_271",
+      "username": "User_271",
+      "win_count": 2,
+      "win_rate": 0.002,
+      "avg_points": 380,
+      "avg_tickets": 3,
+      "engagement_level": "low",
+      "bias_score": -0.001
+    },
+    {
+      "user_id": "user_109",
+      "username": "User_109",
+      "win_count": 1,
+      "win_rate": 0.001,
+      "avg_points": 860,
+      "avg_tickets": 8,
+      "engagement_level": "medium",
+      "bias_score": -0.007
+    },
+    {
+      "user_id": "user_472",
+      "username": "User_472",
+      "win_count": 1,
+      "win_rate": 0.001,
+      "avg_points": 731,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": -0.006
+    },
+    {
+      "user_id": "user_172",
+      "username": "User_172",
+      "win_count": 1,
+      "win_rate": 0.001,
+      "avg_points": 697,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_402",
+      "username": "User_402",
+      "win_count": 1,
+      "win_rate": 0.001,
+      "avg_points": 606,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_18",
+      "username": "User_018",
+      "win_count": 1,
+      "win_rate": 0.001,
+      "avg_points": 605,
+      "avg_tickets": 6,
+      "engagement_level": "low",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_342",
+      "username": "User_342",
+      "win_count": 1,
+      "win_rate": 0.001,
+      "avg_points": 603,
+      "avg_tickets": 6,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_281",
+      "username": "User_281",
+      "win_count": 1,
+      "win_rate": 0.001,
+      "avg_points": 465,
+      "avg_tickets": 4,
+      "engagement_level": "low",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_257",
+      "username": "User_257",
+      "win_count": 1,
+      "win_rate": 0.001,
+      "avg_points": 454,
+      "avg_tickets": 4,
+      "engagement_level": "low",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_90",
+      "username": "User_090",
+      "win_count": 1,
+      "win_rate": 0.001,
+      "avg_points": 453,
+      "avg_tickets": 4,
+      "engagement_level": "low",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_403",
+      "username": "User_403",
+      "win_count": 1,
+      "win_rate": 0.001,
+      "avg_points": 426,
+      "avg_tickets": 4,
+      "engagement_level": "low",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_42",
+      "username": "User_042",
+      "win_count": 1,
+      "win_rate": 0.001,
+      "avg_points": 415,
+      "avg_tickets": 4,
+      "engagement_level": "low",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_350",
+      "username": "User_350",
+      "win_count": 1,
+      "win_rate": 0.001,
+      "avg_points": 414,
+      "avg_tickets": 4,
+      "engagement_level": "medium",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_307",
+      "username": "User_307",
+      "win_count": 1,
+      "win_rate": 0.001,
+      "avg_points": 409,
+      "avg_tickets": 4,
+      "engagement_level": "low",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_47",
+      "username": "User_047",
+      "win_count": 1,
+      "win_rate": 0.001,
+      "avg_points": 212,
+      "avg_tickets": 2,
+      "engagement_level": "low",
+      "bias_score": -0.001
+    },
+    {
+      "user_id": "user_123",
+      "username": "User_123",
+      "win_count": 0,
+      "win_rate": 0,
+      "avg_points": 708,
+      "avg_tickets": 7,
+      "engagement_level": "medium",
+      "bias_score": -0.007
+    },
+    {
+      "user_id": "user_168",
+      "username": "User_168",
+      "win_count": 0,
+      "win_rate": 0,
+      "avg_points": 690,
+      "avg_tickets": 6,
+      "engagement_level": "low",
+      "bias_score": -0.006
+    },
+    {
+      "user_id": "user_346",
+      "username": "User_346",
+      "win_count": 0,
+      "win_rate": 0,
+      "avg_points": 580,
+      "avg_tickets": 5,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_383",
+      "username": "User_383",
+      "win_count": 0,
+      "win_rate": 0,
+      "avg_points": 546,
+      "avg_tickets": 5,
+      "engagement_level": "medium",
+      "bias_score": -0.005
+    },
+    {
+      "user_id": "user_277",
+      "username": "User_277",
+      "win_count": 0,
+      "win_rate": 0,
+      "avg_points": 476,
+      "avg_tickets": 4,
+      "engagement_level": "medium",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_4",
+      "username": "User_004",
+      "win_count": 0,
+      "win_rate": 0,
+      "avg_points": 466,
+      "avg_tickets": 4,
+      "engagement_level": "low",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_327",
+      "username": "User_327",
+      "win_count": 0,
+      "win_rate": 0,
+      "avg_points": 412,
+      "avg_tickets": 4,
+      "engagement_level": "low",
+      "bias_score": -0.004
+    },
+    {
+      "user_id": "user_191",
+      "username": "User_191",
+      "win_count": 0,
+      "win_rate": 0,
+      "avg_points": 346,
+      "avg_tickets": 3,
+      "engagement_level": "low",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_87",
+      "username": "User_087",
+      "win_count": 0,
+      "win_rate": 0,
+      "avg_points": 329,
+      "avg_tickets": 3,
+      "engagement_level": "low",
+      "bias_score": -0.003
+    },
+    {
+      "user_id": "user_54",
+      "username": "User_054",
+      "win_count": 0,
+      "win_rate": 0,
+      "avg_points": 280,
+      "avg_tickets": 2,
+      "engagement_level": "low",
+      "bias_score": -0.002
+    },
+    {
+      "user_id": "user_55",
+      "username": "User_055",
+      "win_count": 0,
+      "win_rate": 0,
+      "avg_points": 124,
+      "avg_tickets": 1,
+      "engagement_level": "low",
+      "bias_score": -0.001
+    }
+  ],
+  "engagement_analysis": {
+    "low": {
+      "user_count": 36,
+      "avg_win_rate": 0.0021666666666666666,
+      "avg_tickets": 4.861111111111111,
+      "total_wins": 78
+    },
+    "medium": {
+      "user_count": 371,
+      "avg_win_rate": 0.009231805929919137,
+      "avg_tickets": 11.06199460916442,
+      "total_wins": 3425
+    },
+    "high": {
+      "user_count": 93,
+      "avg_win_rate": 0.016096774193548387,
+      "avg_tickets": 16.817204301075268,
+      "total_wins": 1497
+    }
+  },
+  "mission_effectiveness": [
+    {
+      "mission_type": "registration",
+      "participants": 398,
+      "avg_win_rate": 0.010206030150753768,
+      "effort_ratio": 0.09798129000492369
+    },
+    {
+      "mission_type": "bonus",
+      "participants": 330,
+      "avg_win_rate": 0.011409090909090909,
+      "effort_ratio": 0.1306772908366534
+    },
+    {
+      "mission_type": "photo",
+      "participants": 409,
+      "avg_win_rate": 0.010374083129584353,
+      "effort_ratio": 0.24487390996936131
+    },
+    {
+      "mission_type": "challenge",
+      "participants": 438,
+      "avg_win_rate": 0.010776255707762557,
+      "effort_ratio": 0.35953389830508475
+    },
+    {
+      "mission_type": "quiz",
+      "participants": 450,
+      "avg_win_rate": 0.010422222222222222,
+      "effort_ratio": 0.47633262260127934
+    }
+  ],
+  "time_patterns": [
+    {
+      "period": "Early (Days 1-7)",
+      "win_rate": 0.009427083333333334,
+      "competition_level": 96
+    },
+    {
+      "period": "Mid (Days 8-15)",
+      "win_rate": 0.010273333333333334,
+      "competition_level": 150
+    },
+    {
+      "period": "Late (Days 16-23)",
+      "win_rate": 0.009861538461538462,
+      "competition_level": 130
+    },
+    {
+      "period": "Final (Days 24-31)",
+      "win_rate": 0.010258064516129033,
+      "competition_level": 124
+    }
+  ],
+  "bias_detection": {
+    "high_bias_users": [],
+    "statistical_summary": {
+      "users_within_5_percent": 500,
+      "users_with_significant_bias": 0,
+      "max_positive_bias": 0.009,
+      "max_negative_bias": -0.013000000000000001
+    }
+  }
+}
