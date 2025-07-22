@@ -260,7 +260,7 @@ export const useRaffleState = () => {
       return sortedTeams.map((team, index) => ({
         ...team,
         playerNumber: index + 1, // Rank 1 = highest points
-        status: 'eligible' as const
+        status: team.Points === 0 ? 'withdrawn' as const : 'eligible' as const
       }));
     };
     

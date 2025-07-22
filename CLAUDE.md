@@ -34,6 +34,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `npm run optimize:hq` - High-quality optimization
 - `npm run optimize:squid` - Optimize for Squid Game theme
 
+### ZIP File Processing
+- `npm run process:zips` - Process all zip files in data/ folder and create thumbnails
+- `npm run process:zips:watch` - Watch for new zip files and process automatically
+
 ## Application Architecture
 
 ### Core State Management

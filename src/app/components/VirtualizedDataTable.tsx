@@ -143,7 +143,8 @@ const VirtualizedDataTable: React.FC<VirtualizedDataTableProps> = ({
 
   // For small datasets, use regular table
   if (sortedTeams.length <= 50) {
-    return <DataTable teams={teams} title={title} showOdds={showOdds} currentRoundOdds={oddsPerRound} currentRound={currentRound} />;
+    const currentRoundOdds = currentRound ? oddsPerRound[currentRound - 1] : [];
+    return <DataTable teams={teams} title={title} showOdds={showOdds} currentRoundOdds={currentRoundOdds} currentRound={currentRound} />;
   }
 
   return (

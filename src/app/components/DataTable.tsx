@@ -28,13 +28,8 @@ const TeamRow = React.memo(({
 }) => {
   // Memoize expensive calculations
   const { statusColor, statusText, statusTooltip, oddValue } = useMemo(() => {
-    // Auto-withdraw logic: if team has 0 tickets (0 points), mark as withdrawn
     const tickets = Math.floor(team.Points / 100);
-    let finalStatus = team.status;
-    
-    if (tickets === 0 && team.status === 'eligible') {
-      finalStatus = 'withdrawn';
-    }
+    const finalStatus = team.status;
     
     // Enhanced status styling with better colors and tooltips
     let statusColor = 'bg-emerald-100 text-emerald-800 dark:bg-emerald-900/30 dark:text-emerald-200 border border-emerald-200 dark:border-emerald-800';

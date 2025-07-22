@@ -948,12 +948,17 @@ const SquidGameAnimation: React.FC<SquidGameAnimationProps> = ({
           </span>
           
           {/* Withdrawn players indicator */}
-          {(withdrawn.length > 0 || withdrawnPlayers.length > 0) && (
-            <>
-              <span className="text-sm text-gray-300">|</span>
-              <span className="text-sm text-red-400">🚫 {withdrawn.length + withdrawnPlayers.length} Withdrawn</span>
-            </>
-          )}
+          {(() => {
+            const autoWithdrawnCount = allTeams?.filter(t => t.status === 'withdrawn').length || 0;
+            // Only count withdrawnPlayers (global) to avoid double counting with local withdrawn state
+            const totalWithdrawn = withdrawnPlayers.length + autoWithdrawnCount;
+            return totalWithdrawn > 0 && (
+              <>
+                <span className="text-sm text-gray-300">|</span>
+                <span className="text-sm text-red-400">🚫 {totalWithdrawn} Withdrawn</span>
+              </>
+            );
+          })()}
           
           {/* Current drawing number during animation */}
           {raffleState !== 'idle' && raffleState !== 'complete' && (

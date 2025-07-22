@@ -3,6 +3,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { useRaffleState } from '@/hooks/useRaffleState';
+import { TeamData } from '@/types/raffle';
 import CSVUploader from './components/CSVUploader';
 import DataTable from './components/DataTable';
 import RaffleProgress from './components/RaffleProgress';
@@ -46,7 +47,7 @@ export default function Home() {
         {/* CSV Upload Section */}
         {!state.raffleStarted && state.teams.length === 0 && (
           <CSVUploader 
-            onDataLoaded={actions.loadTeamData}
+            onDataLoaded={(data: TeamData[]) => actions.loadTeamData(data)}
             isDisabled={state.raffleStarted}
           />
         )}
@@ -79,6 +80,7 @@ export default function Home() {
             rounds={state.rounds}
             currentRound={state.currentRound}
             remainingTeams={state.remainingTeams.length}
+            totalTeams={state.teams.length}
           />
         )}
 

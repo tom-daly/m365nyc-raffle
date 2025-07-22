@@ -26,7 +26,8 @@
       "Bash(npm run analyze:comprehensive:*)",
       "Bash(npm run analyze:efficient:*)",
       "Bash(npm run verify:raffle:*)",
-      "Bash(npm run verify:quick:*)"
+      "Bash(npm run verify:quick:*)",
+      "Bash(npm run:*)"
     ],
     "deny": []
   }
